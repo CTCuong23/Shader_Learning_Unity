@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shader Graphs_SG_ItemGlint
-  m_Shader: {fileID: -6465566751694194690, guid: 2aae7d916fc664d49ae7da02520d58e2, type: 3}
+  m_Name: Shader Graphs_SG_ThermalSword
+  m_Shader: {fileID: -6465566751694194690, guid: 3410c29a719786d419e9f77220bc58eb, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -40,13 +40,13 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
-    m_Floats:
-    - _GlintIntensity: 2
+    m_Floats: []
     m_Colors:
-    - _Color: {r: 0.4296248, g: 10.811504, b: 11.984315, a: 0}
+    - _CoreColor: {r: 0.21960792, g: 5.992157, b: 4.95823, a: 0}
+    - _OuterColor: {r: 4.1266456, g: 1.2687206, b: 15.637735, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &8774750125711915126
+--- !u!114 &2776174576126404573
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
