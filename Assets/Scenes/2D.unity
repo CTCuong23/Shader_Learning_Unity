@@ -1061,7 +1061,7 @@ GameObject:
   - component: {fileID: 1455224797}
   - component: {fileID: 1455224796}
   m_Layer: 0
-  m_Name: creature_ghost_16x16
+  m_Name: creature_ghostFloat_16x16
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
