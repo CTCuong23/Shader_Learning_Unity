@@ -5329,6 +5329,63 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d31aa41cb0c686642bb5a129dbd16600, type: 3}
+--- !u!1001 &1569384185464176048
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2318518640113526233, guid: bbd45879fd4721f488d7fb8a7847af3b, type: 3}
+      propertyPath: m_Name
+      value: VFX_CampfireFlame
+      objectReference: {fileID: 0}
+    - target: {fileID: 7272396007266534451, guid: bbd45879fd4721f488d7fb8a7847af3b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7272396007266534451, guid: bbd45879fd4721f488d7fb8a7847af3b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7272396007266534451, guid: bbd45879fd4721f488d7fb8a7847af3b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7272396007266534451, guid: bbd45879fd4721f488d7fb8a7847af3b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 7272396007266534451, guid: bbd45879fd4721f488d7fb8a7847af3b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 7272396007266534451, guid: bbd45879fd4721f488d7fb8a7847af3b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7272396007266534451, guid: bbd45879fd4721f488d7fb8a7847af3b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7272396007266534451, guid: bbd45879fd4721f488d7fb8a7847af3b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 7272396007266534451, guid: bbd45879fd4721f488d7fb8a7847af3b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7272396007266534451, guid: bbd45879fd4721f488d7fb8a7847af3b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bbd45879fd4721f488d7fb8a7847af3b, type: 3}
 --- !u!1001 &2507224633574569516
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5340,6 +5397,10 @@ PrefabInstance:
     - target: {fileID: 3116653043774616152, guid: dec77c9da2c5dc74693f5c0d1bbbd984, type: 3}
       propertyPath: m_Name
       value: VFX_HealingAura
+      objectReference: {fileID: 0}
+    - target: {fileID: 3116653043774616152, guid: dec77c9da2c5dc74693f5c0d1bbbd984, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4899205888519689417, guid: dec77c9da2c5dc74693f5c0d1bbbd984, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5643,3 +5704,4 @@ SceneRoots:
   - {fileID: 3704925781028385244}
   - {fileID: 1326164869111983970}
   - {fileID: 2507224633574569516}
+  - {fileID: 1569384185464176048}
