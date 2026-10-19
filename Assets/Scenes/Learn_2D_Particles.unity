@@ -5585,6 +5585,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: VFX_BlackfireAura
       objectReference: {fileID: 0}
+    - target: {fileID: 4643472570643180805, guid: 05265cf4c79acab4dacda58fb4bc4259, type: 3}
+      propertyPath: RotationModule.enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5294383609710289394, guid: 05265cf4c79acab4dacda58fb4bc4259, type: 3}
+      propertyPath: m_RenderMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5294383609710289394, guid: 05265cf4c79acab4dacda58fb4bc4259, type: 3}
+      propertyPath: m_LengthScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5294383609710289394, guid: 05265cf4c79acab4dacda58fb4bc4259, type: 3}
+      propertyPath: m_VelocityScale
+      value: 0.15
+      objectReference: {fileID: 0}
     - target: {fileID: 6498483552992576008, guid: 05265cf4c79acab4dacda58fb4bc4259, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
