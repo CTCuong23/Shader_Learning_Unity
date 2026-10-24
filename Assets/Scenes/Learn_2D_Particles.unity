@@ -5621,6 +5621,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VFX_ChillFireflies
       objectReference: {fileID: 0}
+    - target: {fileID: 6552448976843861682, guid: 3630d361d2fb88f4996e313b01e264c6, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5825,6 +5829,63 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 05265cf4c79acab4dacda58fb4bc4259, type: 3}
+--- !u!1001 &6133180095786244760
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2173861850685113234, guid: fca81d304f46dcd44ad02a8c8bd6a082, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2173861850685113234, guid: fca81d304f46dcd44ad02a8c8bd6a082, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2173861850685113234, guid: fca81d304f46dcd44ad02a8c8bd6a082, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2173861850685113234, guid: fca81d304f46dcd44ad02a8c8bd6a082, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2173861850685113234, guid: fca81d304f46dcd44ad02a8c8bd6a082, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2173861850685113234, guid: fca81d304f46dcd44ad02a8c8bd6a082, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2173861850685113234, guid: fca81d304f46dcd44ad02a8c8bd6a082, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2173861850685113234, guid: fca81d304f46dcd44ad02a8c8bd6a082, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2173861850685113234, guid: fca81d304f46dcd44ad02a8c8bd6a082, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2173861850685113234, guid: fca81d304f46dcd44ad02a8c8bd6a082, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8296231805288083985, guid: fca81d304f46dcd44ad02a8c8bd6a082, type: 3}
+      propertyPath: m_Name
+      value: VFX_Whirlwind
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fca81d304f46dcd44ad02a8c8bd6a082, type: 3}
 --- !u!1001 &6450812764044294360
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5965,3 +6026,4 @@ SceneRoots:
   - {fileID: 2666750555726090122}
   - {fileID: 2206115161659262584}
   - {fileID: 3307771390864152557}
+  - {fileID: 6133180095786244760}
